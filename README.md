@@ -9,3 +9,4 @@ Verkefnið felst í að myndskreyta kvæðið með að lágmarki 8 myndum sem an
 Hérna er videoið mitt af teiknimyndasögunni
 https://user-images.githubusercontent.com/77440259/207204177-9aa7b76d-7348-4934-9319-4833f6f3fda5.mp4
 
+[thrymskvioa.pdf](https://github.com/AndresHaukur/IslenskaFornbokmenntir/files/10213449/thrymskvioa.pdf)
